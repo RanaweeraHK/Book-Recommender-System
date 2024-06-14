@@ -1,6 +1,8 @@
 # Book Recommendation System
 
 This is a Book Recommendation System built using a content-based filtering approach. The system recommends books based on the features of the books the user has rated highly.
+![images](https://github.com/RanaweeraHK/Book-Recommender-System/assets/129282753/2416b660-1ec1-46e6-bccf-7808451a3cc9)
+
 
 ## Features
 
@@ -76,7 +78,6 @@ This is a Book Recommendation System built using a content-based filtering appro
 
 - `app.py`: The main application script for the Streamlit app.
 - `artifacts/`: Directory containing the pickled model and data files.
-- 
 
 
 ## Acknowledgements
