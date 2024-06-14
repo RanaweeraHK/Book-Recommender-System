@@ -2,7 +2,7 @@
 
 This is a Book Recommendation System built using a content-based filtering approach. The system recommends books based on the features of the books the user has rated highly.
 
-![images](https://github.com/RanaweeraHK/Book-Recommender-System/assets/129282753/2416b660-1ec1-46e6-bccf-7808451a3cc9)
+![2022-book-recommendations-teg-4](https://github.com/RanaweeraHK/Book-Recommender-System/assets/129282753/e4b11076-8c5e-417f-8583-a794a4d9487c)
 
 
 ## Features
