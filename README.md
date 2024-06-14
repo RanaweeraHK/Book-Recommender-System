@@ -84,3 +84,6 @@ This is a Book Recommendation System built using a content-based filtering appro
 ## Acknowledgements
 
 - Thanks to the open-source community for providing useful libraries and tools.
+
+  ![image](https://github.com/RanaweeraHK/Book-Recommender-System/assets/129282753/eb95ec8f-5f1a-48f9-93a1-aff1edb40c49)
+
